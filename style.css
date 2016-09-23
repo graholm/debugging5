@@ -4,8 +4,11 @@
 }
 
 #1 {
+    border-style: solid;
+    border-color: red;
+  }
 
-    p.solid {border-style: solid;}
+
 }
    padding: 8cm 8cm 8cm 8cm;
 
